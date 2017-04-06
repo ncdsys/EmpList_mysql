@@ -3,7 +3,7 @@
   <groupId>com.ncodeit.mysql</groupId>
   <artifactId>EmpList_mysql</artifactId>
   <packaging>war</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <name>EmpList_mysql Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -29,7 +29,7 @@
     <connection>scm:git:git@github.com:ncdsys/EmpList_mysql.git</connection>
     <developerConnection>scm:git:git@github.com:ncdsys/EmpList_mysql.git</developerConnection>
     <url>https://github.com/ncdsys/EmpList_mysql.git</url>
-    <tag>HEAD</tag>
+    <tag>EmpList_mysql-1.2</tag>
   </scm>   
   <build>
     <finalName>EmpList_mysql</finalName>
